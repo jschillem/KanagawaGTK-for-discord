@@ -3711,7 +3711,7 @@ li[id*="chat-messages-921217923790561360-"]
 
 /* Here is the font change */
 @font-face {
-  font-family: "Berkeley Mono Nerd Font";
+  font-family: "Berkeley Mono";
   src: url("https://github.com/jschillem/KanagawaGTK-for-discord/raw/main/BerkeleyMonoNerdFont-Regular.otf");
 }
 @font-face {
@@ -3722,7 +3722,7 @@ li[id*="chat-messages-921217923790561360-"]
 :root {
   --font-primary: "Inter";
   --font-headline: "Inter";
-  --font-code: "Berkeley Mono Nerd Font";
+  --font-code: "Berkeley Mono";
   --font-display: "Inter";
   /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";

@@ -3712,11 +3712,11 @@ li[id*="chat-messages-921217923790561360-"]
 /* Here is the font change */
 @font-face {
   font-family: "Berkeley Mono Nerd Font";
-  src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete.ttf");
+  src: url("https://github.com/jschillem/KanagawaGTK-for-discord/raw/main/BerkeleyMonoNerdFont-Regular.otf");
 }
 @font-face {
   font-family: "Inter";
-  src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete%20Mono.ttf");
+  src: url("https://github.com/jschillem/KanagawaGTK-for-discord/raw/main/Inter-Medium.ttf");
 }
 
 :root {

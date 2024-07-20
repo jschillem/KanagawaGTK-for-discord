@@ -3712,7 +3712,7 @@ li[id*="chat-messages-921217923790561360-"]
 /* Here is the font change */
 @font-face {
   font-family: "Berkeley Mono";
-  src: url("https://github.com/jschillem/KanagawaGTK-for-discord/raw/main/BerkeleyMonoNerdFont-Regular.otf");
+  src: url("https://github.com/jschillem/KanagawaGTK-for-discord/raw/main/BerkeleyMono-Regular.ttf");
 }
 @font-face {
   font-family: "Inter";

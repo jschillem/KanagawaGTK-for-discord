@@ -3711,10 +3711,10 @@ li[id*="chat-messages-921217923790561360-"]
 
 /* Here is the font change */
 :root {
-  --font-primary: "Inter";
-  --font-headline: "Inter";
+  --font-primary: "Clear Sans";
+  --font-headline: "Clear Sans";
   --font-code: "Berkeley Mono";
-  --font-display: "Inter";
+  --font-display: "Clear Sans";
   /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
